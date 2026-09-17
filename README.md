@@ -33,7 +33,7 @@ The prototype integrates sensing, display, communication, and protection compone
 - Serial Communication
 
 ## Results
-
+![image](https://github.com/ChandrikaSolleti/Substation-Monitoring-GSM/blob/c63c422e529614e7649982a7a9dfda1b752a05d6/circuit%20on%20panel.jpeg)
 The developed prototype demonstrated the ability to:
 
 - Monitor voltage, current, frequency, and temperature parameters
